@@ -1,0 +1,1 @@
+HTTPS has now become the standard for accessing websites. Many websites still have static links to websites with the outdated HTTP protocol. This script searches websites for outdated URLs, checks whether there is a correspondingly new URL with encryption, and then rebuilds the outdated URL.
